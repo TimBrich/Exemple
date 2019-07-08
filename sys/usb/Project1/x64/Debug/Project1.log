@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\progi\лабы бгуир\5 сем\иипу\lab6\prj1\project1\project1\source.cpp(94): warning C4101: 'msg': unreferenced local variable
+e:\progi\лабы бгуир\5 сем\иипу\lab6\prj1\project1\project1\source.cpp(102): warning C4101: 'hDevice': unreferenced local variable
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  Project1.vcxproj -> E:\Progi\Лабы бгуир\5 сем\ИиПУ\lab6\prj1\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> E:\Progi\Лабы бгуир\5 сем\ИиПУ\lab6\prj1\Project1\x64\Debug\Project1.pdb (Partial PDB)

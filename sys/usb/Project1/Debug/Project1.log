@@ -1,0 +1,6 @@
+﻿  Source.cpp
+f:\progi\labs\5 сем\иипу\lab6\prj1\project1\project1\source.cpp(92): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+f:\progi\labs\5 сем\иипу\lab6\prj1\project1\project1\source.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+f:\progi\labs\5 сем\иипу\lab6\prj1\project1\project1\source.cpp(94): warning C4101: msg: неиспользованная локальная переменная
+f:\progi\labs\5 сем\иипу\lab6\prj1\project1\project1\source.cpp(102): warning C4101: hDevice: неиспользованная локальная переменная
+  Project1.vcxproj -> F:\Progi\labs\5 сем\ИиПУ\lab6\prj1\Project1\Debug\Project1.exe
