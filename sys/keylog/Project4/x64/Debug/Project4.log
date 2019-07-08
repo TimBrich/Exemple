@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  Project4.vcxproj -> D:\Progi\labs\5 сем\ИиПУ\lab5\Project4\x64\Debug\Project4.exe
+  Project4.vcxproj -> D:\Progi\labs\5 сем\ИиПУ\lab5\Project4\x64\Debug\Project4.pdb (Partial PDB)
